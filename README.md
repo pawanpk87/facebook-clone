@@ -1,38 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Facebook clone app
 
-## Getting Started
+<!-- Screenshots -->
 
-First, run the development server:
+### :camera: Screenshot
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![Screenshot (110)](https://user-images.githubusercontent.com/87040096/222547195-e85ce88d-d728-4bd9-9c0f-8f73e0c73b6d.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Backend :- https://github.com/pawanpk87/-facebook-clone-app-service
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### :space_invader: Tech Stack
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://nextjs.org/">Next.js</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+  </ul>
+</details>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<details>
+<summary>Server</summary>
+  <ul>
+    <li><a href="https://spring.io/">Spring Boot</a></li>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+  </ul>
+</details>
+<br />
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+<table>
+    <tr>
+        <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/87040096/219964861-dfbad18b-7218-4347-9b8e-f233e1f23e55.png" alt="" width="30" height="30" /></a>
+        </td>
+        <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/87040096/219965241-cbf7d1cb-272a-4e32-b085-6104d64fded5.png" alt="" width="30" height="30" /></a>
+        </td>
+        <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/87040096/222547682-2f8a7e53-770b-4e56-bd65-4fa40a4abb2e.png" alt="" width="30" height="30" /></a>
+        </td>
+        <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/87040096/222547695-10dac7fd-f88b-4b71-b8e2-25ff425a7f72.png" alt="" width="30" height="30" /></a>
+        </td>
+    </tr>
+</table>
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- CONTACT -->
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Pawan Kumar Mehta - arowpk@gmail.com
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Project Link: [https://github.com/pawanpk87/myShop-Ecommerce-website](https://github.com/pawanpk87/myShop-Ecommerce-website)
